@@ -21,16 +21,17 @@
 - https://www.proofpoint.com/us/blog/threat-insight/ta416-goes-ground-and-returns-golang-plugx-malware-loader （TA416 坠毁并携带 Golang PlugX 恶意软件加载器返回）
 
 ### 资料文件
-《深入了解 Polaris 的武器库和情报见解》
-《揭秘 TeleBoyi：中国 APT 组织瞄准全球关键基础设施》
-《RAT 的秘密生活：通过剖析多个后门来串联线索》
-《中国 RedGolf 利用 KEYPLUG 进行广泛目标的间谍活动和窃取信息》
-《MustangPanda 简史及其 PlugX 演变》
-《剖析 PlugX 以提取其精华》
-《下一代 PlugX/ShadowPad？深入研究新兴的中国 Nexus 模块化木马 Pangolin8RAT（幻灯片）》
-《ShadowPad：中国间谍活动私售恶意软件的杰作》
-《ShadowPad APT 后门及其与 PlugX 的关系研究》
-《分析报告 (TLP:WHITE) PlugX 变体分析 (PlugX 版本 7.0)》
+- 《深入了解 Polaris 的武器库和情报见解》  
+https://github.com/badboycxcc/Plugx/blob/main/2024-08-Sailing%20the%20Seven%20SEAs.pdf  
+- 《揭秘 TeleBoyi：中国 APT 组织瞄准全球关键基础设施》
+- 《RAT 的秘密生活：通过剖析多个后门来串联线索》
+- 《中国 RedGolf 利用 KEYPLUG 进行广泛目标的间谍活动和窃取信息》
+- 《MustangPanda 简史及其 PlugX 演变》
+- 《剖析 PlugX 以提取其精华》
+- 《下一代 PlugX/ShadowPad？深入研究新兴的中国 Nexus 模块化木马 Pangolin8RAT（幻灯片）》
+- 《ShadowPad：中国间谍活动私售恶意软件的杰作》
+- 《ShadowPad APT 后门及其与 PlugX 的关系研究》
+- 《分析报告 (TLP:WHITE) PlugX 变体分析 (PlugX 版本 7.0)》
 
 
 
