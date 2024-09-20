@@ -3,15 +3,17 @@
 ## 特点
 ### Dll侧加载
 存在三个文件，Loader 通常为合法的exe，具有数字签名。Dll为恶意Dll，从Dat解密Shellcode并加载，Dat为加密后的Shellcode
-- Loader
-- Dll
-- Dat
+- Loader 
+- Dll 
+- Dat 
 加载流程如下图所示
+
 ![image](https://github.com/user-attachments/assets/e09636f0-c8af-42c4-9091-91dec8ee1a83)
 
 
 ### 进程注入
-自带功能，默认开启，默认进程如下图所示  
+自带功能，默认开启，默认进程如下图所示   
+
 ![image](https://github.com/user-attachments/assets/3f9fd336-d62c-49d9-8c06-acfdac074e60)
 ![image](https://github.com/user-attachments/assets/a7845fba-cea6-42ca-8d01-7f5052eebba7)
 
