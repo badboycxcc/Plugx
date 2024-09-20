@@ -28,7 +28,8 @@
 - [《MustangPanda 简史及其 PlugX 演变》](https://github.com/badboycxcc/Plugx/blob/main/JSAC2023_2_LT4.pdf)
 - [《剖析 PlugX 以提取其精华》](https://github.com/badboycxcc/Plugx/blob/main/Dissecting%2BPlugX%2Bto%2BExtract%2BIts%2BCrown%2BJewels.pdf)
 - [《下一代 PlugX/ShadowPad？深入研究新兴的中国 Nexus 模块化木马 Pangolin8RAT（幻灯片）》](https://github.com/badboycxcc/Plugx/blob/main/AS-22-LeonSilvia-NextGenPlugXShadowPad.pdf)
-- [《ShadowPad：中国间谍活动私售恶意软件的杰作》](https://github.com/badboycxcc/Plugx/blob/main/D1T1%20-%20%20ShadowPad%20-%20A%20Masterpiece%20of%20Privately%20Sold%20Malware%20in%20Chinese%20Espionage%20-%20Yi-Jhen%20Hsieh%20%26%20Joey%20Chen.pdf、https://github.com/badboycxcc/Plugx/blob/main/SentinelOne_-SentinelLabs_ShadowPad_WP_V2.pdf)
+- [《ShadowPad：中国间谍活动私售恶意软件的杰作1》](https://github.com/badboycxcc/Plugx/blob/main/D1T1%20-%20%20ShadowPad%20-%20A%20Masterpiece%20of%20Privately%20Sold%20Malware%20in%20Chinese%20Espionage%20-%20Yi-Jhen%20Hsieh%20%26%20Joey%20Chen.pdf)
+- [《ShadowPad：中国间谍活动私售恶意软件的杰作2》](https://github.com/badboycxcc/Plugx/blob/main/SentinelOne_-SentinelLabs_ShadowPad_WP_V2.pdf)
 - [《ShadowPad APT 后门及其与 PlugX 的关系研究》](https://github.com/badboycxcc/Plugx/blob/main/Study_of_the_ShadowPad_APT_backdoor_and_its_relation_to_PlugX_en.pdf)
 - [《分析报告 (TLP:WHITE) PlugX 变体分析 (PlugX 版本 7.0)》](https://github.com/badboycxcc/Plugx/blob/main/tr-12-circl-plugx-analysis-v1.pdf)
 
