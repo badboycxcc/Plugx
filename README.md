@@ -28,6 +28,7 @@
 
 
 ### 功能
+**7.0版本功能**
 ![image](https://github.com/user-attachments/assets/2cfc1fec-ed4b-4a0d-b137-cc7b9346d6ed)
 
 
