@@ -26,6 +26,11 @@
 - ICMP（14年以后版本才有）
 - HTTPS（新版本）
 
+
+### 功能
+![image](https://github.com/user-attachments/assets/2cfc1fec-ed4b-4a0d-b137-cc7b9346d6ed)
+
+
 ### 链接
 - [DragonRank，一家中文 SEO 操纵服务提供商](https://blog.talosintelligence.com/dragon-rank-seo-poisoning/)
 - [ShadowPad 构建器](https://nao-sec.org/2024/06/building-caspers-shadow.html)
