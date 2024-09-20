@@ -41,13 +41,27 @@
 
 
 ## 图片
-来源：https://nao-sec.org/2024/06/building-caspers-shadow.html
-构建器
+### 来源：https://nao-sec.org/2024/06/building-caspers-shadow.html
+**构建器**
+![image](https://github.com/user-attachments/assets/9174b4c3-d2d7-436b-83c7-6e699de01a60)
+![image](https://github.com/user-attachments/assets/191661aa-ba71-45c4-b724-29023d70ab6f)
+![image](https://github.com/user-attachments/assets/5ba6af06-5573-4558-97e6-206529fd0d38)
+![image](https://github.com/user-attachments/assets/e75c38e0-8f43-414a-ab4b-c7feaa5d8043)
+![image](https://github.com/user-attachments/assets/8a5c6dcc-4c04-4681-947d-38b90841f818)
+![image](https://github.com/user-attachments/assets/7abdc0c7-cb39-4d59-9b05-fba01e751fb5)
 
 
 
-来源：https://hunt.io/blog/legacy-threat-plugx-builder-controller-discovered-in-open-directory
-构建器
 
-控制端
+### 来源：https://hunt.io/blog/legacy-threat-plugx-builder-controller-discovered-in-open-directory
+**构建器**
+![image](https://github.com/user-attachments/assets/8b8a05fc-3495-4e8d-8ce9-93da19c7f89c)
+![image](https://github.com/user-attachments/assets/bac32282-3582-4b70-ad44-b373cff87f77)
+![image](https://github.com/user-attachments/assets/fd40036e-9779-4ede-a89e-4ae419968842)
+![image](https://github.com/user-attachments/assets/004f11a8-e5b4-4f52-a40f-df5289b8b12c)
+![image](https://github.com/user-attachments/assets/a4c4be0f-9491-4da5-8c31-228b35a31d0a)
+
+
+**控制端**
+![image](https://github.com/user-attachments/assets/1acc5c80-bab9-42df-883b-7d5004f44c01)
 
