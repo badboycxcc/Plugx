@@ -1,5 +1,12 @@
 # Plugx 开源情报集合
 
+**20240927**
+这个是基于7.0 版本（2012）修改的，汉化了，并增加了下载执行功能。
+地址：https://github.com/BlackHatCN/plugx
+![image](https://github.com/user-attachments/assets/8e1a1d8f-e0c5-4d4f-8a02-e997316c9d78)
+
+
+
 ## 特点
 ### Dll侧加载
 存在三个文件，Loader 通常为合法的exe，具有数字签名。Dll为恶意Dll，从Dat解密Shellcode并加载，Dat为加密后的Shellcode
