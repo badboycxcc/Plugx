@@ -3,7 +3,9 @@
 **20241210**
 PlugX 恶意软件分析
 
-地址：https://paper.seebug.org/3093/
+地址：https://paper.seebug.org/3093/  
+![image](https://github.com/user-attachments/assets/a358ee51-0c46-4780-bb2d-210be75723d6)
+
 
 
 **20240927**
